@@ -4,7 +4,7 @@ Workplan,review,bill of materials,designes,schematics,code and complete implemen
 ## PROJECT STATEMENT
 The need for safe health practices such as using sanitizers after using public amenities like taps,doors or switches is very essential to reduce  spread of COVID-19. Therefore there is an immediate need in the innovation involving touch free triggers to facilitate actions such as activating taps, doors and switches.
 
-##TRANSFORMERLESS POWER SUPPLY
+## TRANSFORMERLESS POWER SUPPLY
 To reduce the bulk in my circuit and solve the power supply problem to my system once on PCB,I resolved to using a transformerless power supply circuit.TYhis basically uses a capacitor and a rectifier bridge to drom the AC voltage and converty it into a DC equivalent voltage respectively.
 
 ### SYSTEM COMPONENTS
