@@ -59,3 +59,12 @@ To reduce the bulk in my circuit and solve the power supply problem to my system
    -Once the relay is active then the current is ~70mA.
    -The highest contact voltage of a relay is 250VAC/30VDC.
    -The maximum current is 10A.
+  
+   ### Greenled
+   -1.8-2.2VDC forward drop.
+   -Max current: 20mA.
+   -Suggested using current: 16-18mA.
+   -Luminous Intensity: 150-200mcd.
+   
+
+     
