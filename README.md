@@ -11,6 +11,8 @@ To reduce the bulk in my circuit and solve the power supply problem to my system
 -Arduino Mega 2650(ATMEGA328P chip)
 -HC-SRO4 Ultrasonic sensor
 -Photocell
+-Power jack
+-Voltage regulator
 -Relay module
 -Led
 -10K and 220 ohm resistors
@@ -51,8 +53,8 @@ To reduce the bulk in my circuit and solve the power supply problem to my system
    -Photocell is ½” diameter CdS (cadmium-sulfide). 
    -Universal 120-277 AC voltage (50-60Hz) is standard.
    -Preset 3 to 10 second time-delay prevents unintended switching due to momentary flashes of light. 
-   -Power consumption: 2 watts.
-
+   -Power consumption; 2 watts
+   
    ### Relay module
    -Voltage supply ranges from 3.75V – 6V.
    -Quiescent current is 2mA.
